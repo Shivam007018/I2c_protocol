@@ -1,3 +1,11 @@
+output : ![Screenshot 2025-07-04 231235](https://github.com/user-attachments/assets/117f867f-05b5-4a6f-aef2-5964070a57ce)
+
+output waveform : ![Screenshot 2025-07-04 221846](https://github.com/user-attachments/assets/f138ca12-270c-4ac9-b996-9312d5bb2793)
+
+
+
+
+
 🛠️ I2C Protocol Implementation – Write Operation (Master to Slave)
 📌 Overview
 This project implements the I2C (Inter-Integrated Circuit) Protocol in Verilog, focusing on the write operation. In this implementation:
